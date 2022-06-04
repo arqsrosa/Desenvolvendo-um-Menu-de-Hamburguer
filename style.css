@@ -209,9 +209,9 @@ a:hover{
 
 .card-a {
     height: 300px;
-    width: 600px;
-    margin: 1rem 0 0 0;
-    background-image: url('/github.png');
+    width: 400px;
+    margin: 3rem 0 0 0;
+    background-image: url('github.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -225,20 +225,7 @@ a:hover{
 }
 
 .card-b {
-    height: 300px;
-    width: 600px;
-    margin: 1rem 0 0 0;
-    background-image: url('/github.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    filter: grayscale(0.5);
-    color: white;
-    cursor: pointer;
-    transition: 0.3s;
+    
 }
 
 .card-text {
